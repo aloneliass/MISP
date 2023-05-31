@@ -1561,7 +1561,7 @@ SHA1 of 592e237925243cf65d30a0c95c91733db593da64c96281b70917a038da9156ae",Activi
 10474,Artifacts dropped,sha1,,,,86447d6bcc862ebfa2366f751ce57de8b5948c9c,"SHA1 of 40126ae71b857dd22db39611c25d3d5dd0e60316b72830e930fba9baf23973ce
 SHA1 of 40126ae71b857dd22db39611c25d3d5dd0e60316b72830e930fba9baf23973ce",
 10474,Artifacts dropped,sha1,,,,67f25f899228a52c6668a7663ff8cf3f9e4dff22,SHA1 of 7b15f570a23a5c5ce8ff942da60834a9d0549ea3ea9f34f900a09331325df893,
-10475,Artifacts dropped,sha1,,,,248795453ceb95e39db633285651f7204813ea3a,SHA1 of d9f15227fefb98ba69d98542fbe7e568,Activity Indicator
+10475,Artifacts dropped,sha1,,,,248795453ceb95e39db633285651f7204813ea3a,,Activity Indicator
 10475,Artifacts dropped,sha1,,,,6715b888a280d54de9a8482e40444087fd4d5fe8,SHA1 of be7b13aee7b510b052d023dd936dc32f,Activity Indicator
 10478,Artifacts dropped,sha1,,,,6715b888a280d54de9a8482e40444087fd4d5fe8,SHA1 of be7b13aee7b510b052d023dd936dc32f,Activity Indicator
 10480,Artifacts dropped,sha1,,,,668636f660921fd7c09107c56630ce27b1b615cb,SHA1 of 8d07dc0745e57aeb40905a7426fb6515930a1fc7898db0ee93fda55ba085461b,Activity Indicator
@@ -2612,7 +2612,7 @@ SHA256 of 6983f7001de10f4d19fc2d794c3eb534",Activity Indicator
 10474,Artifacts dropped,sha256,,,,7b15f570a23a5c5ce8ff942da60834a9d0549ea3ea9f34f900a09331325df893,,
 10474,Artifacts dropped,sha256,,,,40126ae71b857dd22db39611c25d3d5dd0e60316b72830e930fba9baf23973ce,,
 10474,Artifacts dropped,sha256,,,,0c1eb11de3a533689267ba075e49d93d55308525c04d6aff0d2c54d1f52f5500,,
-10475,Artifacts dropped,sha256,,,,5b70972c72bf8af098350f8a53ec830ddbd5c2c7809c71649c93f32a8a3f1371,SHA256 of d9f15227fefb98ba69d98542fbe7e568,Activity Indicator
+10475,Artifacts dropped,sha256,,,,5b70972c72bf8af098350f8a53ec830ddbd5c2c7809c71649c93f32a8a3f1371,,Activity Indicator
 10475,Artifacts dropped,sha256,,,,b9ef2e948a9b49a6930fc190b22cbdb3571579d37a4de56564e41a2ef736767b,SHA256 of be7b13aee7b510b052d023dd936dc32f,Activity Indicator
 10478,Artifacts dropped,sha256,,,,b9ef2e948a9b49a6930fc190b22cbdb3571579d37a4de56564e41a2ef736767b,SHA256 of be7b13aee7b510b052d023dd936dc32f,Activity Indicator
 10480,Artifacts dropped,sha256,,,,2b7d2490bfc4eacd3e5870ae0de92fdb5c1f11a5e8fdc7c07773780c6db038d9,,Activity Indicator
